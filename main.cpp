@@ -1,3 +1,5 @@
+//// Ветка feature-logic-georgiy: логика перемещения плиток (Путин Георгий)
+
 #include <iostream>
 #include <iomanip>  // для красивого вывода
 #include <cstdlib>  // rand, srand
