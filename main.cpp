@@ -1,3 +1,5 @@
+////Ветка feature-logic-georgiy: логика перемещения плиток (Путин Георгий)
+
 //Ветка feature-init-nikita: базовая структура проекта (Жуланов Никита)
 #include <iostream>
 #include <iomanip>  // для красивого вывода
