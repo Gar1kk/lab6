@@ -1,4 +1,4 @@
-// Ветка feature-init-nikita: базовая структура проекта (Жуланов Никита)
+//Ветка feature-init-nikita: базовая структура проекта (Жуланов Никита)
 #include <iostream>
 #include <iomanip>  // для красивого вывода
 #include <cstdlib>  // rand, srand
